@@ -100,9 +100,9 @@ imageView.image = [SGQRCodeGenerateManager SG_generateWithColorQRCodeData:@"http
 
 ## 效果图
 
-![](https://github.com/kingsic/SGQRCode/raw/master/Picture/sorgle2.png) 
+![](https://github.com/KeenTeam1990/SGQRCode/raw/master/Picture/sorgle2.png) 
 
-![](https://github.com/kingsic/SGQRCode/raw/master/Picture/sorgle3.png)      
+![](https://github.com/KeenTeam1990/SGQRCode/raw/master/Picture/sorgle3.png)      
 
 
 ## 问题及解决方案
